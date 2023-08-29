@@ -1,6 +1,23 @@
 
 
 
-body{
-background-color:
-}
+ body{
+    background-color: #d5e1ef;
+ }
+
+ .content{
+   width:300px;
+   border:1px solid black;
+   background-color: #ffffff;
+   border:none;
+   border-radius:6px;
+place-items:center;
+margin:150px 150px 150px 150px;
+ }
+
+
+ .qrPhoto img{
+   border-radius: 10px;
+   margin-left:95px;
+
+ }

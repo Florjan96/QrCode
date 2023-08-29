@@ -7,8 +7,29 @@ function App() {
 
   return (
     <div className="App">
-      <h1>asdsad</h1>
+    
+    <div className="content">
+
+
+<div className="qrPhoto">
+  <img src="/images/image-qr-code.png" alt="qrPhoto" width="100px" />
+  </div>
+
+<div className="mainText">
+  <h3>Improve your front-end skills by building projects</h3>
+</div>
+
+<div className="paragraph">
+
+  <p>Scan the QR code to visit Frontend Mentor and take your coding skills next level</p>
+</div>
+
+</div>
+
+
     </div>
+    
+
   )
 }
 
